@@ -1,15 +1,24 @@
 ---
-title: 雨晨杯
-description: 记雨晨杯的一些回忆
-date: 2023-02-12
-slug: football
-image: 开球.jpg
-categories:
-    - 足球
-    - 回忆
----
-![first](合照1.jpg)此刻是晚上十一点，从龙陵回到保山，喝了几杯茶洗了一个舒舒服服的澡坐在书桌前，心情大好，决定写下一篇blog记录一下此次的龙陵足球之旅。
+weight: 4
+title: "雨晨杯"
+date: 2023-02-01T21:57:40+08:00
+lastmod: 2023-03-01T16:45:40+08:00
+draft: false
+authors: ["WJG"]
+description: "记雨晨杯的一些回忆."
+featuredImage: "featured-image.jpg"
 
+tags: ["足球", "回忆"]
+categories: ["生活"]
+
+lightgallery: true
+---
+
+记雨晨杯的一些回忆.
+<!--more-->
+此刻是晚上十一点，从龙陵回到保山，喝了几杯茶洗了一个舒舒服服的澡坐在书桌前，心情大好，决定写下一篇blog记录一下此次的龙陵足球之旅。
+
+![first](合照1.jpg)
 ### 决赛
 ![tnt](featured-image.jpg)
 #### 两球落后扳平

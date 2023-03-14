@@ -1,6 +1,6 @@
 
 ---
-weight: 1
+weight: 5
 title: "TEST_BLOG"
 date: 2023-01-18T02:48:04+08:00
 lastmod: 2023-01-18T02:48:04+08:00
@@ -21,12 +21,13 @@ twemoji: false
 lightgallery: true
 ---
 
-网站开发阶段的信息 :joy: 
+网站开发阶段的信息
+<!--more-->
 :heart_eyes:
 基本写作功能已经实现
 可以开始写东西了！
 不方便的再慢慢调试吧
-<!--more-->
+
 
 ## 已经实现的功能 {#test-done}
 ***
