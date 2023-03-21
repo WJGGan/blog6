@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ggan17.netlify.app/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -78,7 +78,7 @@ theme = "DoIt"
         [languages.zh-cn.params.home.profile]
           enable = true
           # Gravatar 邮箱，用于优先在主页显示的头像
-          gravatarEmail = ""
+          gravatarEmail = "wangjiaGGan@163.com"
           # 主页显示头像的 URL
           avatarURL = "/images/logo.png"
           # 主页显示的网站标题 (支持 HTML 格式)
@@ -109,7 +109,7 @@ theme = "DoIt"
         Devto = ""
         Douban = ""
         Dribbble = ""
-        Email = "xxxx@xxxx.com"
+        Email = "wangjiaGGan@163.com"
         Facebook = ""
         Fivehundredpx = ""
         Flickr = ""
