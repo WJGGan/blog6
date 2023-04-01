@@ -1,8 +1,8 @@
+
 ---
 weight:1
 title: "WAVELENGTH:瞬息涌动"
-
-date: 2023-03-31T22:08:44+08:00
+date: 2023-04-01T14:11:03+08:00
 draft: false
 authors: ["WJG"]
 description: "WAVELENGTH:瞬息涌动"
@@ -19,5 +19,3 @@ lightgallery: true
 
 展览位于北京时代美术馆
 14组艺术装置，14个瞬息奇景，1首关于瞬间和永恒的诗篇
-
-
